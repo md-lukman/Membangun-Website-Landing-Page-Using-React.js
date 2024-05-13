@@ -3,7 +3,7 @@
 ![image](https://github.com/md-lukman/Membangun-Website-Landing-Page-Using-React.js/assets/129524518/0ab5e68b-779d-4fae-802e-d6b252da67d8)
 
 
-# Building a landing page website using React.js
+# Membangun sebuah website landing page menggunakan React.js
 Proyek ini bertujuan untuk mengubah desain antarmuka pengguna (UI/UX) yang telah ada untuk sebuah landing page website yang memperkenalkan kecerdasan buatan (AI) menjadi sebuah aplikasi web yang interaktif menggunakan React.js. Dengan mengimplementasikan desain tersebut ke dalam kode React.js, akan dibuat pengalaman pengguna yang dinamis dan responsif.
 
 # Catatan
