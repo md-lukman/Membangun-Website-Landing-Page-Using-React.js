@@ -1,4 +1,5 @@
 ![image](https://github.com/md-lukman/Membangun-Website-Landing-Page-Using-React.js/assets/129524518/c894aaa6-9592-4eb2-aa5d-c23dc2c0a85a)
+![image](https://github.com/md-lukman/Membangun-Website-Landing-Page-Using-React.js/assets/129524518/895000f3-ff63-4fb3-b300-13d4c8ac09a3)
 ![image](https://github.com/md-lukman/Membangun-Website-Landing-Page-Using-React.js/assets/129524518/0ab5e68b-779d-4fae-802e-d6b252da67d8)
 
 
