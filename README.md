@@ -18,3 +18,6 @@ Proyek ini bertujuan untuk mengubah desain antarmuka pengguna (UI/UX) yang telah
 * Properti CSS Fundamental untuk menguasai flex & grid
 * Dari animasi lembut dan menyenangkan hingga gradien yang kompleks
 * Media query yang ditempatkan dengan sempurna untuk responsifitas yang memuaskan hampir pada semua perangkat
+
+# Durasi Waktu
+_15 April 2024 - 26 April 2024
