@@ -12,6 +12,7 @@ Proyek ini bertujuan untuk mengubah desain antarmuka pengguna (UI/UX) yang telah
 - Memastikan tampilan halaman yang optimal di berbagai perangkat dan ukuran layar.
 - Mengutamakan detail dalam desain dan pengembangan untuk menciptakan pengalaman pengguna yang mulus dan menyenangkan.
 
+# Ilmu yang didapat
 * Komponen Fungsional React dan reusability
 * Struktur Berkas dan Folder React
 * Properti CSS Fundamental untuk menguasai flex & grid
